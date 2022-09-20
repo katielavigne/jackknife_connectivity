@@ -1,0 +1,63 @@
+label_number,abbreviation,description
+1,L_CaudMFG,Caudal Middle Frontal L
+2,L_Ent,Entorhinal Cortex L
+3,L_PoCG,Postcentral Gyrus L
+4,L_LFT,Lateral Frontal Triangularis L
+5,L_SMG,Supramarginal Gyrus L
+7,L_Ins,Insula L
+8,L_LatOFG,Lateral Orbitofrontal L
+9,L_LatFOrb,Lateral Frontal Orbitalis L
+10,L_MTG,Middle Temporal L
+11,L_Calc,Pericalcarine L
+12,L_PHG,Parahippocampal L
+13,L_PaCG,Paracentral Gyrus L
+14,L_MedOFG,Medial Orbitofrontal L
+15,L_Cun,Cuneus L
+16,L_ITG,Inferior Temporal L
+17,L_RosMFG,Rostral Middle Frontal L
+18,L_RosACC,Rostral Anterior Cingulate L
+19,L_IsCG,Isthmus Cingulate Gyrus L
+20,L_InfOC,Inferior Occipital Cortex L
+21,L_Ling,Lingual Gyrus L
+22,L_SPL,Superior Parietal L
+23,L_LatFOper,Lateral Frontal Opercularis L
+24,L_Fus,Fusiform Gyrus L
+25,L_CaudACC,Caudal Anterior Cingulate L
+26,L_SFG,Superior Frontal Gyrus L
+27,L_PCUN,Precuneus L
+28,L_TranTG,Transverse Temporal L
+29,L_PreCG,Precentral Gyrus L
+30,L_IPL,Inferior Parietal L
+31,L_PCC,Posterior Cingulate L
+32,L_STG,Superior Temporal L
+101,R_CaudMFG,Caudal Middle Frontal R
+102,R_Ent,Entorhinal Cortex R
+103,R_PoCG,Postcentral Gyrus R
+104,R_LFT,Lateral Frontal Triangularis R
+105,R_SMG,Supramarginal Gyrus R
+107,R_Ins,Insula R
+108,R_LatOFG,Lateral Orbitofrontal R
+109,R_LatFOrb,Lateral Frontal Orbitalis R
+110,R_MTG,Middle Temporal R
+111,R_Calc,Pericalcarine R
+112,R_PHG,Parahippocampal R
+113,R_PaCG,Paracentral Gyrus R
+114,R_MedOFG,Medial Orbitofrontal R
+115,R_Cun,Cuneus R
+116,R_ITG,Inferior Temporal R
+117,R_RosMFG,Rostral Middle Frontal R
+118,R_RosACC,Rostral Anterior Cingulate R
+119,R_IsCG,Isthmus Cingulate Gyrus R
+120,R_InfOC,Inferior Occipital Cortex R
+121,R_Ling,Lingual Gyrus R
+122,R_SPL,Superior Parietal R
+123,R_LatFOper,Lateral Frontal Opercularis R
+124,R_Fus,Fusiform Gyrus R
+125,R_CaudACC,Caudal Anterior Cingulate R
+126,R_SFG,Superior Frontal Gyrus R
+127,R_PCUN,Precuneus R
+128,R_TranTG,Transverse Temporal R
+129,R_PreCG,Precentral Gyrus R
+130,R_IPL,Inferior Parietal R
+131,R_PCC,Posterior Cingulate R
+132,R_STG,Superior Temporal R
