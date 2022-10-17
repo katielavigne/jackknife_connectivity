@@ -1,0 +1,11 @@
+numpy==1.23.0+computecanada
+pandas==1.4.1+computecanada
+python-dateutil==2.8.2+computecanada
+pytz==2022.4+computecanada
+six==1.16.0+computecanada
+packaging==21.3+computecanada
+patsy==0.5.2+computecanada
+pyparsing==3.0.9+computecanada
+scipy==1.8.0+computecanada
+statsmodels==0.13.2+computecanada
+bctpy==0.5.0+computecanada
